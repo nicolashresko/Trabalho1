@@ -1,0 +1,30 @@
+.texto{
+text-align: justify;
+padding-right: 50px;
+padding-top: 10px;
+
+}
+.imagem{
+padding-right: 50px;
+padding-left: 50px;
+padding-top: 50px;
+}
+
+/* .imagem:hover{
+    border: 20px solid black;
+} */
+
+.titulo{
+border: 5px solid black;
+border-radius: 20px;
+position:relative;
+display:block;
+left:50%;
+transform: translate(-50%,0);
+width: 50%;
+}
+
+body{
+    background-color: peachpuff ;
+}
+
